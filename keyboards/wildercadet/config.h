@@ -24,8 +24,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VENDOR_ID       0x3700
 #define PRODUCT_ID      0x7E2 //2018
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    wilder
-#define PRODUCT         (space-cadet)
+
+#define MANUFACTURER    wilderjds
+#define PRODUCT         wildercadet
+
 #define DESCRIPTION     A handwired space cadet keyboard
 
 /* key matrix size */
