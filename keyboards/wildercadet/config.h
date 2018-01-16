@@ -29,8 +29,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DESCRIPTION     A handwired space cadet keyboard
 
 /* key matrix size */
-#define MATRIX_ROWS 2
-#define MATRIX_COLS 3
+#define MATRIX_ROWS 5
+#define MATRIX_COLS 15
 
 /*
  * Keyboard Matrix Assignments
